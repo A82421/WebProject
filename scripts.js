@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     // Obtener la fecha de finalización (puedes cambiarla a la fecha que desees)
-    const fechaFinalizacion = new Date("February 28, 2024 23:59:59").getTime();
+    const fechaFinalizacion = new Date("March 28, 2024 23:59:59").getTime();
 
     // Actualizar el contador cada segundo
     const intervalo = setInterval(function() {
